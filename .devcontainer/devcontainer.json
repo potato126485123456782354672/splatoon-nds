@@ -1,0 +1,4 @@
+{
+  "name": "Nintendo DS Development",
+  "image": "devkitpro/devkitarm:latest"
+}
